@@ -1,5 +1,5 @@
 -- ============================================================
--- Anomaly demo: ONE flat table (1NF only). Used in Task 3.
+-- Anomaly demo:(1NF only).
 -- ============================================================
 CREATE DATABASE IF NOT EXISTS university_db
  CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;

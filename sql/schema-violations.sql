@@ -1,7 +1,7 @@
 -- ============================================================
--- Fixed-schema experiments (Task 5). Run ONE statement at a time
--- and read the error message. Every statement below should FAIL.
+-- Fixed-schema experiments (Task 5).
 -- ============================================================
+
 USE university_db;
 
 -- 1. A column that is not in the schema

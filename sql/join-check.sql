@@ -1,5 +1,5 @@
 -- ============================================================
--- JOIN check on the normalized design (Task 5). Run ONE statement at a time.
+-- JOIN check on the normalized design (Task 5).
 -- ============================================================
 USE university_db;
 

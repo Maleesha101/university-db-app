@@ -1,5 +1,5 @@
 -- ============================================================
--- university_db : 3NF schema (Lab Sheet 07)
+-- university_db : 3NF schema
 -- ============================================================
 CREATE DATABASE IF NOT EXISTS university_db
  CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;

@@ -1,5 +1,5 @@
 -- ============================================================
--- Sample data (run on freshly created, EMPTY tables)
+-- Sample data 
 -- ============================================================
 USE university_db;
 

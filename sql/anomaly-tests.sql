@@ -1,5 +1,5 @@
 -- ============================================================
--- Anomaly tests on the normalized design (Task 4, after data.sql)
+-- Anomaly tests on the normalized design (Task 4)
 -- ============================================================
 USE university_db;
 
